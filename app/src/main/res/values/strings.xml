@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Formulario</string>
+    <string name="txt_nombre">Nombre</string>
+    <string name="txt_apellido">Apellido</string>
+    <string name="txt_correo">Correo</string>
+    <string name="txt_universidad">Universidad</string>
+    <string name="btn_text_submit">Submit</string>
+    <string name="txt_edad">Edad</string>
+    <string name="txt_btn_share">Share</string>
+</resources>
